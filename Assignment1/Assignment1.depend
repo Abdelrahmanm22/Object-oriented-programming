@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1635984702 source:d:\university\oop\assignment1\main.cpp
+	<iostream>
+	<windows.h>
+
+1636292690 source:d:\university\oop\ass\assignment1\main.cpp
+	<iostream>
+	<windows.h>
+
